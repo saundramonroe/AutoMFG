@@ -1,7 +1,7 @@
 name: automfg
 channels:
   - defaults
-  - https://repo.anaconda.cloud/repo/community
+  # https://repo.anaconda.cloud/repo/community
 dependencies:
   - _py-xgboost-mutex=2.0=cpu_2
   - aiohappyeyeballs=2.4.4=py312hca03da5_0
