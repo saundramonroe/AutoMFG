@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# *.ipynb  # We'll uncomment this after you add your new notebook
+*.pkl
